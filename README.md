@@ -5,48 +5,44 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/algmebe1](https://github.com/algmebe1)
 
-- 💬 Ask me about **Any doubt you have. It will be a pleasure to assist you!**
+- 💬 Ask me about **Ask me about anything. I am happy to help!**
 
 - 📫 How to reach me **algmebe1@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/alberto-gómez-frontend-web-developer](www.linkedin.com/in/alberto-gómez-frontend-web-developer)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/algmebe1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="algmebe1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/alberto-gómez-frontend-web-developer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/alberto-gómez-frontend-web-developer" height="30" width="40" /></a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
 
 <table>
   <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></td>
-    <td align="center" width="15%" ><img width="40%" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original-wordmark.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></td>
+    <td><a href="https://getbootstrap.com/" ><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></td>
+    <td align="center" width="15%" ><a href="https://www.w3schools.com/css/" ><img width="40%" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original-wordmark.svg"></a></td>
+    <td><a href="https://expressjs.com/" ><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></td>
+    <td><a href="https://www.figma.com/" ><img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></a></td>
+    <td><a href="https://firebase.google.com/" ><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></td>
+    <td><a href="https://git-scm.com/" ><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></td>
+    <td><a href="https://heroku.com/" ><img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></td>
   </tr>
 </table>
 <table>
   <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></td>
+    <td><a href="https://www.w3.org/html/" ><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></td>
+    <td><a href="https://www.adobe.com/products/illustrator.html" ><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" ><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></td>
+    <td><a href="https://jestjs.io/" ><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></a></td>
+    <td><a href="https://www.linux.org/" ><img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></td>
+    <td><a href="https://www.mongodb.com/" ><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></td>
+    <td><a href="https://nodejs.org/" ><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></td>
   </tr>
   </table>
   <table>
   <tr>
-    <td align="center" width="15%" ><img width="40%" src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/color/photoshop.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></td>
-    <td align="center" width="15%" ><img width="40%" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png"></td>
-    <td align="center" width="15%" ><img width="40%" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/redux/redux-original.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></td>
+    <td align="center" width="15%" ><a href="https://www.photoshop.com/en" ><img width="40%" src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/color/photoshop.svg"></a></td>
+    <td><a href="https://postman.com/" ><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a></td>
+    <td><a href="https://reactjs.org/" ><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></td>
+    <td align="center" width="15%" ><a href="https://reactnative.dev/" ><img width="40%" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png"></a></td>
+    <td align="center" width="15%" ><a href="https://redux.js.org/" ><img width="40%" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/redux/redux-original.svg"></a></td>
+    <td><a href="ttps://sass-lang.com/" ><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></a></td>
+    <td><a href="https://www.typescriptlang.org/" ><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></td>
   </tr>
 </table>
