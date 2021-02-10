@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **algmebe1@gmail.com**
 
+- ⚡️ Fun-Fact: I have a degree in design engineering
+
 - 📄 Know about my experiences [www.linkedin.com/in/alberto-gómez-frontend-web-developer](www.linkedin.com/in/alberto-gómez-frontend-web-developer)
 
 <h3 align="left">Languages and Tools:</h3>
